@@ -6,18 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>いしかりしんきろう - 石狩湾の蜃気楼をさがす</title>
+    <title>たかしましんきろう - 石狩湾の蜃気楼をさがす</title>
 
     <link rel="shortcut icon" type="image/png" href="assets/img/brand.png">
 
-    <meta property="og:title" content="いしかりしんきろう - 石狩湾の蜃気楼をさがす">
+    <meta property="og:title" content="たかしましんきろう - 石狩湾の蜃気楼をさがす">
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://honokak.osaka/">
     <meta property="og:image" content="http://honokak.osaka/assets/img/sample.png">
     <meta property="og:description" content="石狩湾の蜃気楼(高島おばけ)を追い求めるサイト。石狩市、小樽市の情報も。">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="いしかりしんきろう - 石狩湾の蜃気楼をさがす">
+    <meta name="twitter:title" content="たかしましんきろう - 石狩湾の蜃気楼をさがす">
     <meta name="twitter:image" content="http://honokak.osaka/assets/img/sample.png">
     <meta name="twitter:description" content="石狩湾の蜃気楼(高島おばけ)を追い求めるサイト。石狩市、小樽市の情報も。">
 
@@ -39,7 +39,7 @@
     <header>
         <nav class="navbar navbar-light bg-faded navbar-fixed-top">
             <div class="container">
-                <h1><a href="#" class="navbar-brand">いしかりしんきろう</a></h1>
+                <h1><a href="#" class="navbar-brand">たかしましんきろう</a></h1>
                 <div class="clearfix hidden-sm-up"></div>
                 <!-- fix navbar responsive bug -->
                 <div class="collapse navbar-toggleable-xs" id="navbar-header">
@@ -157,7 +157,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 text-xs-center copyright">
-                    &copy; 2017 いしかりしんきろう
+                    &copy; 2017 たかしましんきろう
                 </div>
             </div>
         </div>
