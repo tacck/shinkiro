@@ -9,12 +9,13 @@ $(function () {
     }).addTo(pmap);
 
 
-    $.getJSON("date2.geojson", function (data) {
-        var d = data["features"];
+    $.getJSON("/attractions", function (data) {
+
+        var d = data["result"]["data"];
         var l = d.length;
         var i = 0;
         for (i = 0; i < l; i++) {
-            L.marker([d[i]["geometry"]["coordinates"][1], d[i]["geometry"]["coordinates"][0]]).addTo(pmap)
+            L.marker([d[i]["lat"], d[i]["lng"]]).addTo(pmap)
                 .bindPopup(d[i]["properties"]["resourceName"])
                 .openPopup();
         }
